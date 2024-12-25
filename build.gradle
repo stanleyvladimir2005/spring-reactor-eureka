@@ -14,8 +14,6 @@ java {
 	}
 }
 
-
-
 repositories {
 	mavenCentral()
 	maven { url 'https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates' }
